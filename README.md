@@ -2,7 +2,7 @@
 
 This eCommerce App was created with MERN Stack.
 
-Live Link : https://mern-ecommerce-webapp.herokuapp.com/
+
 
 ## Features
 
@@ -20,11 +20,7 @@ Live Link : https://mern-ecommerce-webapp.herokuapp.com/
 - PayPal Payment API (Sandbox)
 - Database seeder (loading of some dummy data)
 
-## Note on Issues
 
-Please do not post issues here as it could be related to your own code and concerns rather when taking the course, post those in Udemy Q/A section. If you clone THIS repo and there are issues, then you can submit it as well.
-
-Here is the course link : https://www.udemy.com/course/mern-ecommerce/
 
 ## Usage
 
@@ -96,7 +92,7 @@ note: password policy won't apply to manually imported data
 admin@proshop.com (Admin)
 123456
 
-gaurang@gmail.com(user)
+Varun@gmail.com(user)
 123456
 ```
 
